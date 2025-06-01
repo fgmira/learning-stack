@@ -633,3 +633,4 @@ Lembre-se: em Python, nem tudo precisa ser uma classe. Use POO quando ela realme
         if eh_primo(numero):
             numeros_primos.append(numero)
     ```
+    Como diz o ditado em programação: *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* (Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem.)
